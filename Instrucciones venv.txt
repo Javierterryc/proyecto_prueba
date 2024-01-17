@@ -1,0 +1,17 @@
+# En el terminal de VS code
+# Crear venv
+
+python -m venv venv
+
+# Activar venv
+
+venv\Scripts\activate
+
+# Abrir archivo plotly
+
+python .\archivo.py
+
+# Abrir archivo streamlit
+
+streamlit run .\archivo.py
+
